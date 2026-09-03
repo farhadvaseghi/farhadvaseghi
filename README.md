@@ -105,15 +105,6 @@ on **[farhadvaseghi.github.io](https://farhadvaseghi.github.io/)**.
 
 ---
 
-### GitHub
-
-<p align="left">
-  <img alt="Farhad's GitHub stats" height="165" src="https://github-readme-stats.vercel.app/api?username=farhadvaseghi&show_icons=true&hide_border=true&theme=transparent&locale=en" />
-  <img alt="Top languages" height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=farhadvaseghi&layout=compact&hide_border=true&theme=transparent&langs_count=8&locale=en" />
-</p>
-
----
-
 <p align="center">
   <i>Open to software, embedded and AI roles in Germany — feel free to reach out.</i>
 </p>
