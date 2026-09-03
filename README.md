@@ -1,28 +1,119 @@
-[![MasterHead](https://www.cuinsight.com/wp-content/uploads/2018/05/bigstock-Modern-Design-Digital-Wallpape-234904279-2.jpg)](https://farhadvaseghi.github.io/)
-<h1 align="center">Hi 👋, I'm Farhad Vaseghi</h1>
-<h3 align="center">A passionate AI and Robotics researcher from Iran</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/8bf6f6d78abc81fcf9c49f10649423e73ea44bc248e83aaae8759d401c829a84/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=farhadvaseghi&label=Profile%20views&color=0e75b6&style=flat" alt="farhadvaseghi" /> </p>
+<h1 align="center">Hi, I'm Farhad Vaseghi</h1>
 
-- 👨‍💻 Some of my projects are available at [https://farhadvaseghi.github.io/](https://farhadvaseghi.github.io/)
-
-- 📫 How to reach me **farhadvaseghi1998@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/farhad-vaseghi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="farhadvaseghi1998" height="30" width="40" /></a>
-<a href="https://instagram.com/farhad__vaseghi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="farhad__vaseghi" height="30" width="40" /></a>
+<p align="center">
+  <b>Software · Embedded · Applied AI</b><br>
+  M.Sc. Autonomy Technologies @ FAU Erlangen-Nürnberg · B.Sc. Electrical Engineering
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://farhadvaseghi.github.io/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-farhadvaseghi.github.io-4f46e5?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/farhad-vaseghi"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-farhad--vaseghi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:farhadvaseghi1998@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-farhadvaseghi1998%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=farhadvaseghi&show_icons=true&locale=en&layout=compact" alt="farhadvaseghi" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=farhadvaseghi&show_icons=true&locale=en" alt="farhadvaseghi" /></p>
+### About me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=farhadvaseghi&" alt="farhadvaseghi" /></p>
+I am an electrical engineer who moved into software. I write and test production
+Python and C++, build CI/CD pipelines that actually catch regressions, design
+digital logic on Xilinx FPGAs, automate industrial hardware with Siemens PLCs,
+and train deep-learning models for perception and prediction.
 
+- 🔭 Currently a **Python software developer** at FAU's LITES chair, and a **data analyst**
+  for the technology transfer of the CRC 1411 research centre.
+- 🧪 Previously **Software Test Automation Engineer at the Fraunhofer Institute** — PyTest,
+  Playwright and Jenkins pipelines validating DSP algorithms on Linux.
+- 🎓 Finishing my **M.Sc. in Autonomy Technologies** in November 2026.
+- 📍 Based in **Erlangen, Germany**. Open to relocation. **No visa sponsorship required.**
+- 🗣️ English (C1) · German (B2) · Persian (native)
+- 💼 Open to roles in software engineering, test automation, embedded/FPGA development
+  and applied machine learning — full-time from December 2026, working student before then.
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/farhadvaseghi"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt=" buymeacoffee.com/farhadvaseghi" /></a></p><br><br>
+---
+
+### Selected projects
+
+| Project | What it is | Stack |
+| --- | --- | --- |
+| **[Flight Price Tracker &amp; Alerting Bot](https://github.com/farhadvaseghi/Flight-Price-Tracker-and-Alerting-Bot)** | Cross-platform service tracking 127 European routes and pushing new-price-low alerts to Telegram. SQLite persistence with RAII and schema migration; two full data-source migrations without touching the storage or alerting layers. | `C++17` `CMake` `SQLite` `libcurl` `GitHub Actions` |
+| **[Job Scraper → Telegram](https://github.com/farhadvaseghi/job-scraper)** | Searches Arbeitsagentur, Indeed, StepStone and Xing for new entry-level postings, filters out fixed-term and temp-agency listings, and posts a deduplicated digest to Telegram. Runs entirely on GitHub Actions. | `Python` `Web Scraping` `GitHub Actions` `Telegram API` |
+| **[RoboRacer](https://github.com/farhadvaseghi/RoboRacer-Shiran)** | Autonomous racing team project for the FAU Autonomy Technologies programme: simulated track and obstacle scenarios plus a safety-first trajectory layer with dynamic overtaking. | `ROS` `Gazebo` `Python` |
+| **[AI Snake Game](https://github.com/farhadvaseghi/AI-Snake-Game)** | Game-playing agent trained with Deep Q-Networks. | `PyTorch` `Reinforcement Learning` |
+| **[Aerial Imagery Segmentation](https://github.com/farhadvaseghi/Aerial-Imagery-Segmentation)** | U-Net implementation for semantic segmentation of aerial imagery. | `TensorFlow` `U-Net` `Computer Vision` |
+| **[Hand Sign Detection](https://github.com/farhadvaseghi/Hand-Sign-Detection)** | Real-time ASL hand-sign recognition. | `Python` `OpenCV` `Deep Learning` |
+
+More — FPGA lane detection on a Xilinx Zynq, PLC warehouse automation, acoustic
+beamforming, stereo depth estimation and graph-attention trajectory prediction —
+on **[farhadvaseghi.github.io](https://farhadvaseghi.github.io/)**.
+
+---
+
+### Tech I work with
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![Verilog](https://img.shields.io/badge/Verilog%20%2F%20VHDL-1F6FEB?style=flat-square)
+
+**Machine learning &amp; vision**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+
+**Testing, DevOps &amp; tooling**
+
+![PyTest](https://img.shields.io/badge/PyTest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![CMake](https://img.shields.io/badge/CMake-064F8C?style=flat-square&logo=cmake&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+**Embedded, FPGA &amp; automation**
+
+![STM32](https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
+![Xilinx](https://img.shields.io/badge/Xilinx%20Vivado-E01F27?style=flat-square&logo=amd&logoColor=white)
+![Siemens TIA](https://img.shields.io/badge/Siemens%20TIA%20Portal-009999?style=flat-square&logo=siemens&logoColor=white)
+![ROS](https://img.shields.io/badge/ROS-22314E?style=flat-square&logo=ros&logoColor=white)
+
+**Backend &amp; data**
+
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![Qt](https://img.shields.io/badge/PySide6%20%2F%20Qt-41CD52?style=flat-square&logo=qt&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+
+---
+
+### GitHub
+
+<p align="left">
+  <img alt="Farhad's GitHub stats" height="165" src="https://github-readme-stats.vercel.app/api?username=farhadvaseghi&show_icons=true&hide_border=true&theme=transparent&locale=en" />
+  <img alt="Top languages" height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=farhadvaseghi&layout=compact&hide_border=true&theme=transparent&langs_count=8&locale=en" />
+</p>
+
+---
+
+<p align="center">
+  <i>Open to software, embedded and AI roles in Germany — feel free to reach out.</i>
+</p>
