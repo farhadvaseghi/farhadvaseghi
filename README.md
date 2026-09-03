@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://farhadvaseghi.github.io/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-farhadvaseghi.github.io-4f46e5?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/farhad-vaseghi"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-farhad--vaseghi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/farhad-vaseghi"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-farhad--vaseghi-0A66C2?style=for-the-badge"></a>
   <a href="mailto:farhadvaseghi1998@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-farhadvaseghi1998%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
@@ -58,7 +58,7 @@ on **[farhadvaseghi.github.io](https://farhadvaseghi.github.io/)**.
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 ![Verilog](https://img.shields.io/badge/Verilog%20%2F%20VHDL-1F6FEB?style=flat-square)
@@ -75,7 +75,7 @@ on **[farhadvaseghi.github.io](https://farhadvaseghi.github.io/)**.
 **Testing, DevOps &amp; tooling**
 
 ![PyTest](https://img.shields.io/badge/PyTest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
@@ -101,7 +101,7 @@ on **[farhadvaseghi.github.io](https://farhadvaseghi.github.io/)**.
 ![Qt](https://img.shields.io/badge/PySide6%20%2F%20Qt-41CD52?style=flat-square&logo=qt&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square)
 
 ---
 
