@@ -24,7 +24,7 @@ and train deep-learning models for perception and prediction.
   for the technology transfer of the CRC 1411 research centre.
 - 🧪 Previously **Software Test Automation Engineer at the Fraunhofer Institute** — PyTest,
   Playwright and Jenkins pipelines validating DSP algorithms on Linux.
-- 🎓 Finishing my **M.Sc. in Autonomy Technologies** in November 2026.
+- 🎓 Finishing my **M.Sc. in Autonomy Technologies** in December 2026.
 - 📍 Based in **Erlangen, Germany**. Open to relocation. **No visa sponsorship required.**
 - 🗣️ English (C1) · German (B2) · Persian (native)
 - 💼 Open to roles in software engineering, test automation, embedded/FPGA development
